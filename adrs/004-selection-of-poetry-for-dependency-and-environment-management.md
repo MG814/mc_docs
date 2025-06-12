@@ -75,4 +75,3 @@ Poetry was chosen as the tool for managing dependencies and virtual environments
 ## Status
 
 Decision implemented.
-

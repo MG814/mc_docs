@@ -14,4 +14,3 @@ We decided to move the JWT token verification to the accounts microservice. This
 
 ## Alternatives
 Keeping the verification in the API Gateway: We considered keeping JWT verification in the API Gateway, but this would have required moving user logic to the Gateway level, complicating its functionality.
-1.
